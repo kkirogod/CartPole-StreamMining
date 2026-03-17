@@ -2,6 +2,8 @@
 
 This repository contains a complete implementation of a **Stream Mining** solution to solve the classic **CartPole-v1** control problem. Instead of traditional reinforcement learning, this approach focuses on **imitation learning** by processing a continuous data stream of 100,000 instances provided by an expert.
 
+![cart_pole](https://github.com/user-attachments/assets/ebc4ffd2-4541-42ad-a803-bba83810780d)
+
 ## 📌 Project Overview
 The goal is to develop a classifier capable of learning the expert's policy to maintain a pole in a vertical position indefinitely. The system assumes the task is successful if the pole remains upright for 500 consecutive time steps.
 
