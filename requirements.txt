@@ -1,7 +1,0 @@
-```text
-river
-gymnasium[classic-control]
-pygame
-numpy
-pandas
-matplotlib
